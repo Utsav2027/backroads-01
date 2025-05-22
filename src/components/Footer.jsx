@@ -16,7 +16,7 @@ function Footer() {
         <li><a href="https://www.squarespace.com" target="_blank" rel="noreferrer" className="footer-icon"><i className="fab fa-squarespace"></i></a></li>
       </ul>
       <p className="copyright">
-        copyright &copy; Utkarsh Dubey
+        copyright &copy; Utsav Tripathi
         <span> {currentYear} </span> all rights reserved
       </p>
     </footer>
